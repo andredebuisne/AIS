@@ -1,11 +1,12 @@
 # AIS - Archaeological Information System
 **Created by Andre Debuisne - 2017**
-
 Written in C++ with Qt library
+*A packaged .exe will be uploaded soon* 
 
-*Source code will be uploaded as well as a packaged .exe* 
+![Main View](https://github.com/andredebuisne/AIS/blob/master/MainView.png?raw=true)
+*Current state of the AIS*
 
-Current functionnalities : 
+**Current functionnalities : ** 
 
  - Create an archaeological site (.archeo)
  - Create a layer (.arcus)
@@ -19,3 +20,4 @@ Current functionnalities :
  - Harris Matrix
  - Data table view
  - Site sectors
+

@@ -4,7 +4,7 @@ Written in C++ with Qt library
 
 *A packaged .exe will be uploaded soon* 
 
-![Main View](https://github.com/andredebuisne/AIS/blob/master/MainView.png?raw=true)
+![Main View](https://github.com/andredebuisne/AIS/blob/master/content/images/MainView.png?raw=true)
 *Current state of the AIS*
 
 **Current functionnalities :** 

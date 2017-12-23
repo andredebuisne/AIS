@@ -1,25 +1,25 @@
 <RCC>
     <qresource prefix="/icons">
-        <file alias="instructions">check-list.png</file>
-        <file alias="help">questions-circular-button.png</file>
-        <file alias="new-svg">text-document-page.svg</file>
-        <file alias="open-svg">folder-open.svg</file>
-        <file alias="english">united-states.svg</file>
-        <file alias="french">france.svg</file>
-        <file alias="theme">graphic-design-software.svg</file>
-        <file alias="font">font-size.svg</file>
-        <file alias="language">worlwide.svg</file>
-        <file alias="object">AIS-Icons-06.png</file>
-        <file alias="splash">AIS-Icons-12.png</file>
-        <file alias="layer1">AIS-Icons-02.png</file>
-        <file alias="layer2">AIS-Icons-03.png</file>
-        <file alias="layer3">AIS-Icons-04.png</file>
-        <file alias="layer4">AIS-Icons-05.png</file>
-        <file alias="icon">AIS-Icons-11.png</file>
-        <file alias="horizon">AIS-Icons-01.png</file>
-        <file alias="statistics">graph.svg</file>
-        <file alias="home">home.svg</file>
-        <file alias="map">map.svg</file>
-        <file alias="edit">edit.svg</file>
+        <file alias="horizon">content/icons/AIS-Icons-01.png</file>
+        <file alias="layer1">content/icons/AIS-Icons-02.png</file>
+        <file alias="layer2">content/icons/AIS-Icons-03.png</file>
+        <file alias="layer3">content/icons/AIS-Icons-04.png</file>
+        <file alias="layer4">content/icons/AIS-Icons-05.png</file>
+        <file alias="object">content/icons/AIS-Icons-06.png</file>
+        <file alias="splash">content/icons/AIS-Icons-12.png</file>
+        <file alias="instructions">content/icons/check-list.png</file>
+        <file alias="edit">content/icons/edit.svg</file>
+        <file alias="open-svg">content/icons/folder-open.svg</file>
+        <file alias="font">content/icons/font-size.svg</file>
+        <file alias="french">content/icons/france.svg</file>
+        <file alias="statistics">content/icons/graph.svg</file>
+        <file alias="theme">content/icons/graphic-design-software.svg</file>
+        <file alias="home">content/icons/home.svg</file>
+        <file>content/icons/icons8-add-file-50.png</file>
+        <file alias="map">content/icons/map.svg</file>
+        <file alias="help">content/icons/questions-circular-button.png</file>
+        <file alias="new-svg">content/icons/text-document-page.svg</file>
+        <file alias="english">content/icons/united-states.svg</file>
+        <file alias="language">content/icons/worlwide.svg</file>
     </qresource>
 </RCC>

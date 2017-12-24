@@ -16,7 +16,7 @@ Written in C++ with Qt library
  - Modify site, horizon, layer or object
  - Delete site, horizon, layer or object
  
- I am working on :
+ **I am working on :**
  
  - Harris Matrix
  - Data table view

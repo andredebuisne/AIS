@@ -4,7 +4,7 @@ Written in C++ with Qt library
 
 *A packaged .exe will be uploaded soon* 
 
-![Main View](https://github.com/andredebuisne/AIS/blob/master/content/images/MainView.png?raw=true)
+<img src="https://raw.githubusercontent.com/andredebuisne/AIS/master/content/images/MainView.png" alt="Main image" style="max-height : 50px"/>
 *Current state of the AIS*
 
 **Current functionnalities :** 
